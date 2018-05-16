@@ -4,7 +4,7 @@ import numpy as np
 from darkflow.net.build import TFNet
 
 options = {'model': 'cfg/yolo.cfg',
-           'load': 'bin/yolo.weights',
+           'load': 'bin/yolov2.weights',
            'threshold': 0.3,
            'gpu': 0.7}
 

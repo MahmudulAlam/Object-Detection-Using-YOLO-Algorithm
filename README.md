@@ -12,11 +12,7 @@ YOLO is a state-of-the-art object detection and classification algorithm which s
 Originally YOLO is written in C and Darknet. Darknet is a neural network library for C. However, the TensorFlow implementation of Darknet, Darkflow and Python has been used here.
 
 ## Outputs
-This is how the outputs of YOLO looks like.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/37298971/40066230-7e4580c6-5885-11e8-812d-bdee3a761ad0.jpg">
-</p>
+This is how the outputs of YOLO look like.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/37298971/40066164-596cd560-5885-11e8-858e-850c1f8883f8.jpg">

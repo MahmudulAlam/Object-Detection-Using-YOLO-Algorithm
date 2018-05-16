@@ -5,6 +5,8 @@ YOLO is a state-of-the-art object detection and classification algorithm which s
 - [x] TensorFlow
 - [x] OpenCV
 - [x] Darkflow
+- [x] yolov2.weights : Download the file and put in a bin folder in the working directory (working directory/bin/yolo.weights).
+[![Download](https://img.shields.io/badge/download-yolov2.weights-green.svg?style=flat)](https://pjreddie.com/media/files/yolov2.weights)
 
 Originally YOLO is written in C and Darknet. Darknet is a neural network library for C. However, the TensorFlow implementation of Darknet, Darkflow and Python has been used here.
 
@@ -24,5 +26,5 @@ This is how the outputs of YOLO looks like.
 </p>
 
 ## References
-- [YOLO](https://pjreddie.com/darknet/yolo/) Real-Time Object Detection.
+- [YOLO](https://pjreddie.com/darknet/yolov2/) Real-Time Object Detection.
 - [Darkflow](https://github.com/thtrieu/darkflow) TensorFlow Implementation of Darknet. 

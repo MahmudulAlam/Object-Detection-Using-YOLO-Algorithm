@@ -1,6 +1,8 @@
 # Object Detection Using YOLO Algorithm
 
-##Outputs
+## Outputs
+
+<img align="right" width="1280" height="720" src="https://user-images.githubusercontent.com/37298971/40066230-7e4580c6-5885-11e8-812d-bdee3a761ad0.jpg">
 
 ![person](https://user-images.githubusercontent.com/37298971/40066230-7e4580c6-5885-11e8-812d-bdee3a761ad0.jpg)
 

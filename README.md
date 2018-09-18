@@ -1,5 +1,5 @@
 # Object Detection Using YOLO Algorithm
-YOLO is a state-of-the-art object detection and classification algorithm which stands for "You Only Look Once". It is extremely fast and thus real time object detection is possible. "Only Look Once" in the algorithm means it requires only one forward propagation pass through the network to make predictions of object classes and bounding boxes.
+YOLO is a state-of-the-art object detection and classification algorithm which stands for "You Only Look Once". It is extremely fast and thus real-time object detection is possible. "Only Look Once" in the algorithm means it requires only one forward propagation pass through the network to make predictions of object classes and bounding boxes.
 
 ## Requirements
 - [x] TensorFlow
@@ -20,9 +20,9 @@ This is how the outputs of YOLO look like.
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/37298971/40066181-64658124-5885-11e8-913e-bf78b2978418.jpg">
+  <img src="https://user-images.githubusercontent.com/37298971/45701659-a7858e80-bb91-11e8-828e-bf3949d1b9f0.jpg">
 </p>
 
 ## References
 - [YOLO](https://pjreddie.com/darknet/yolov2/) Real-Time Object Detection.
-- [Darkflow](https://github.com/thtrieu/darkflow) TensorFlow Implementation of Darknet. 
+- [Darkflow](https://github.com/thtrieu/darkflow) TensorFlow Implementation of Darknet.

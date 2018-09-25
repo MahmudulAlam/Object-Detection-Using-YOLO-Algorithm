@@ -15,12 +15,12 @@ Originally YOLO is written in C and Darknet. Darknet is a neural network library
 This is how the outputs of YOLO look like.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/37298971/40066164-596cd560-5885-11e8-858e-850c1f8883f8.jpg">
+  <img src="https://user-images.githubusercontent.com/37298971/40066164-596cd560-5885-11e8-858e-850c1f8883f8.jpg" width="700">
 </p>
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/37298971/45701659-a7858e80-bb91-11e8-828e-bf3949d1b9f0.jpg">
+  <img src="https://user-images.githubusercontent.com/37298971/45701659-a7858e80-bb91-11e8-828e-bf3949d1b9f0.jpg" width="700">
 </p>
 
 ## References
